@@ -4,12 +4,12 @@
 
 <h3 align="left">🖋️ SUMMARY</h3>
 <p align="left">
-I'm a Full Stack Developer with over 9 years of experience in designing, developing, and deploying web applications.I have expertise in both front-end and back-end technologies, including JavaScript, Python, Next.js, React, Angular, and Django, and are skilled in database management with SQL and NoSQL.I have a proven track record of enhancing user experience and optimizing application performance using Agile methodologies. I seek to contribute to a company with a strong long-term strategy, where I can grow alongside a professional team.
+I'm a Full Stack Developer with over 8 years of experience in designing, developing, and deploying web applications.I have expertise in both front-end and back-end technologies, including JavaScript, Python, Next.js, React, Angular, and Django, and are skilled in database management with SQL and NoSQL.I have a proven track record of enhancing user experience and optimizing application performance using Agile methodologies. I seek to contribute to a company with a strong long-term strategy, where I can grow alongside a professional team.
 </p>
 <div style='display:flex; flex-direction:column; align-items:center ; justify-content:center'>
 
 <img src="./profile-3d-contrib/profile-green-animate.svg"/>
-
+<br />
 <div style="text-align: center;">
     <div style="display: inline-block; height: 100%;">
         <picture>
@@ -22,8 +22,8 @@ I'm a Full Stack Developer with over 9 years of experience in designing, develop
 
 <br>
 <div align="center">
- <a href="https://github.com/BlackLegSanji124?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=BlackLegSanji124&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@BlackLegSanji124's github-readme-stats"/></a>
- <a href="https://github.com/BlackLegSanji124?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=BlackLegSanji124&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@BlackLegSanji124's github-readme-streak-stats"/></a>
+ <a href="https://github.com/BlackLegSanji124?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=BlackLegSanji124&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@BlackLegSanji124's github-readme-streak-stats"/></a>
+ <a href="https://github.com/BlackLegSanji124?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=BlackLegSanji124&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="45%" alt="@BlackLegSanji124's github-readme-stats"/></a>
 </div>
 
 <br>
