@@ -96,5 +96,5 @@ I'm a Full Stack Developer with over 8 years of experience in designing, develop
  
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Welcome&fontAlign=50&textBg=false&rotate=0&strokeWidth=0&reversal=true&section=footer&fontAlignY=61&descAlign=0&descAlignY=0"/>
 <div>
