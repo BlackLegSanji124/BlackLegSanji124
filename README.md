@@ -7,8 +7,64 @@
 I'm a Full Stack Developer with over 8 years of experience in designing, developing, and deploying web applications.I have expertise in both front-end and back-end technologies, including JavaScript, Python, Next.js, React, Angular, and Django, and are skilled in database management with SQL and NoSQL.I have a proven track record of enhancing user experience and optimizing application performance using Agile methodologies. I seek to contribute to a company with a strong long-term strategy, where I can grow alongside a professional team.
 </p>
 <div style='display:flex; flex-direction:column; align-items:center ; justify-content:center'>
-
-<img src="./profile-3d-contrib/profile-green-animate.svg"/>
+<table>
+  <tr>
+    <th><h3 align="center">Frontend</h3></th>
+    <th><h3 align="center">Backend</h3></th>
+    <th><h3 align="center">Mobile</h3></th>
+    <th><h3 align="center">Database</h3></th>
+    <th><h3 align="center">Tools</h3></th>
+  </tr>
+  <tr>
+    <td>
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="48" height="48" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss" alt="HTML, CSS, Bootstrap, Tailwind CSS" />
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
+        <img src="https://skillicons.dev/icons?i=angular" alt="Angular" />
+        <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" />
+        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="48" height="48" />
+        <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="48" height="48" />
+    </td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+        <img src="https://skillicons.dev/icons?i=express" alt="Express" />
+        <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" />
+        <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
+        <img src="https://skillicons.dev/icons?i=symfony" alt="Symfony" />
+      </a>
+    </td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=androidstudio,react" alt="Android Studio, React Native" />
+        <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="40" height="40" />
+        <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="Swift" width="40" height="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
+        <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" />
+      </a>
+    </td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,gitlab,azure,vscode" alt="Git, GitHub, GitLab, Azure, VS Code" />
+        <img src="https://skillicons.dev/icons?i=figma,photoshop,nginx,postman,visualstudio" alt="Figma, Photoshop, Nginx, Postman, Visual Studio" />
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="37" height="37" />
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="37" height="37" />
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="37" height="37" />
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="37" height="37" />
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="37" height="37" />
+      </a>
+    </td>
+  </tr>
+</table>
 <br />
 <div style="text-align: center;">
     <div style="display: inline-block; height: 100%;">
